@@ -6,9 +6,9 @@ SoUI模拟的百度网盘(v5.6.3)主界面，纯界面展示，没有功能逻�
 - Visual Studio 2015 Community
 
 # ScreenShot
-[main_list](screenshot\main_list.png)
-[main_tile](screenshot\main_tile.png)
-[share](screenshot\share.png)
-[safe](screenshot\safe.png)
-[box](screenshot\box.png)
-[tray_menu](screenshot\tray_menu.png)
+![main_list](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/main_list.png)
+![main_tile](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/main_tile.png)
+![share](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/share.png)
+![safe](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/safe.png)
+![box](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/box.png)
+![tray_menu](https://raw.githubusercontent.com/slandx/baiduwp-soui/master/screenshot/tray_menu.png)
